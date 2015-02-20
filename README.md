@@ -55,7 +55,7 @@ The first one `no_bootstrap.html`, as you can tell, doesn't use bootstrap to ren
 
 This is how the `no_boostrap.html` example looks like:
 
-![alt text](https://github.com/devilicecream/tree/master/example/screen.png "Github Badge")
+![alt text](https://github.com/devilicecream/github-badge/blob/master/example/screen.png?raw=true "Github Badge")
 
 
 ### Enjoy!
