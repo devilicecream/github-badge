@@ -42,8 +42,8 @@ GitHubBadge.prototype = {
         $main.append($list);
         $main.append(last_push);
 
-        var github_logo_url = 'https://assets-cdn.github.com/favicon.ico'
-        var github_logo = $("<a href='http://github.com' target='_blank' id='github-badge-logo'><img src='" + github_logo_url + "' id='github-badge-logo' style='height: 16px; width: 16px' /></a>");
+        var github_logo_url = 'https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png'
+        var github_logo = $("<a href='http://github.com' target='_blank' id='github-badge-logo'><img src='" + github_logo_url + "' id='github-badge-logo' style='height: 24px; width: 24px' /></a>");
 
         this.$element.append(github_logo);
         this.$element.append($side);
