@@ -16,7 +16,7 @@ GitHubBadge.prototype = {
         var avatar = $("<img src='" + this.user.avatar_url + "' class='" + avatar_class + "' id='github-badge-avatar' />");
         var name = $("<h2 id='github-badge-name'>" + this.user.name + "</h2>");
         var login = $("<h4 id='github-badge-login'>" + this.user.login + "</h4>");
-        var $profile_link = $("<a href='" + this.user.url + "' target='_blank'></a>");
+        var $profile_link = $("<a href='" + this.user.html_url + "' target='_blank'></a>");
         $profile_link.append(avatar);
         $profile_link.append(name);
         $profile_link.append(login);
