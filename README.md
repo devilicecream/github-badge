@@ -53,5 +53,9 @@ new GitHubBadge(<'#github-badge' or a jQuery selector that picks the badge eleme
 There are a couple of examples in the *example* folder.
 The first one `no_bootstrap.html`, as you can tell, doesn't use bootstrap to render the badge, while the second one `with_bootstrap.html` does.
 
+This is how the `no_boostrap.html` example looks like:
+
+![alt text](https://github.com/devilicecream/tree/master/example/screen.png "Github Badge")
+
 
 ### Enjoy!
